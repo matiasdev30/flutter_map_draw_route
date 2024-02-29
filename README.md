@@ -2,13 +2,14 @@
 
 This project provides a simple example of calculating a driving route between two points using Flutter Map and OpenStreetMap.
 
+https://github.com/matiasdev30/flutter_map_draw_route/assets/50122963/62872f51-625d-400a-bdac-5a6336dd47cf
+
 ## Installation
 
 Make sure you have Flutter installed. Then, clone the repository and navigate to the project directory.
 
 ```bash
-git clone [repository_url]
-cd [project_directory]
+git clone https://github.com/matiasdev30/flutter_map_draw_route/
 ```
 
 Install the required dependencies using Flutter's package manager:
